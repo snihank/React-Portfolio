@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Google Books Search",
+        "description": "A full stack MERN app, serving users with the list of books against their queries, users can save books, view them and delete them.",
+        "tools": "Javascript, React, Node, Express, Axios, MongoDB, Mongoose ORM, Heroku",
+        "link": "https://google-books-mern-app.herokuapp.com/",
+        "code": "https://github.com/snihank/google-books"
+    },
+    {
+        "id": 2,
+        "title": "New York Times Articles Scraping",
+        "description": "A user-friendly app that srapes articles from New York Times website and stores them, mainly into links, which can be viewed later",
+        "tools": "Javascript, Handlebars, MySQL, Node, Express, Axios, Sequelize ORM, Heroku",
+        "link": "",
+        "code": "https://github.com/snihank/Scrape-Mongo"
+    },
+    {
+        "id": 3,
+        "title": "React Clicky Game",
+        "description": "Each time a player clicks on an image, all images will shuffle. Once the user clicks on the same image twice, it's game over, starting the game again",
+        "tools": "Javascript, React, Node, Heroku",
+        "link": "https://guarded-hollows-46887.herokuapp.com",
+        "code": "https://github.com/snihank/clicky-game"
+    },
+    {
+        "id": 4,
+        "title": "Liri Node App",
+        "description": "A command line application, taking terminal commands as parameters and return information about songs, artists, movies and concerts",
+        "tools": "Javascript, Node, Axios, node-spotify-api, fs, Moment, dotenv",
+        "link": "This is a command line app",
+        "code": "https://github.com/snihank/liri-node-app"
+    },
+    {
+        "id": 5,
+        "title": "Eat-da-Burger",
+        "description": "A full stack restaaurant app where users can mention the burger they want to eat and add more burgers",
+        "tools": "Javascript, Handlebars, Node, Express, MySQL Heroku",
+        "link": "https://calm-falls-97011.herokuapp.com/",
+        "code": "https://github.com/snihank/burger-app"
+    },
+    {
+        "id": 6,
+        "title": "Crystal Collector",
+        "description": "This app which generates a random number. Users have to click on crystals, add up the hidden numbers to match that random number",
+        "tools": "HTML, CSS, Bootstrap, Javascript, jQuery",
+        "link": "https://snihank.github.io/unit-4-game/",
+        "code": "https://github.com/snihank/unit-4-game"
+    },
+    {
+        "id": 7,
+        "title": "Giphy Images",
+        "description": "User-friendly application displaying ten moving images based on users' query, users can download the images and use them",
+        "tools": "HTML, CSS, Bootstrap, Javascript, jQuery, Giphy API",
+        "link": "https://snihank.github.io/GiphyProject/",
+        "code": "https://github.com/snihank/GiphyProject"
+    },
+    {
+        "id": 8,
+        "title": "Train Time",
+        "description": "An app displaying train times saved by the user",
+        "tools": "HTML, CSS, Bootstrap, Javascript, jQuery, Firebase, Moment",
+        "link": "https://snihank.github.io/Firebase_Train_Scheduler/",
+        "code": "https://github.com/snihank/Firebase_Train_Scheduler"
+    }
+]
