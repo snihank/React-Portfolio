@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "title": "Google Books Search",
-        "description": "A full stack MERN app, serving users with the list of books against their queries, users can save books, view them and delete them.",
-        "tools": "Javascript, React, Node, Express, Axios, MongoDB, Mongoose ORM, Heroku",
-        "link": "https://google-books-mern-app.herokuapp.com/",
-        "code": "https://github.com/snihank/google-books"
+        "title": "Spring Microservices",
+        "description": "Stwitter (Simple Switter) is a stripped down social media service. It is comprised of two microservices post and comment, and one edge service stwitter.",
+        "tools": "spring boot, spring cloud, eureka service, spring jdbc, rabbitMQ, rest template, feign, spring cache",
+        "link": "This is a backend app",
+        "code": "https://github.com/snihank/spring-microservices"
     },
     {
         "id": 2,
-        "title": "New York Times Articles Scraping",
-        "description": "A user-friendly app that srapes articles from New York Times website and stores them, mainly into links, which can be viewed later",
-        "tools": "Javascript, Handlebars, MySQL, Node, Express, Axios, Sequelize ORM, Heroku",
-        "link": "",
-        "code": "https://github.com/snihank/Scrape-Mongo"
+        "title": "Spring-Security-PWS",
+        "description": "This project is a backend application written in Java using spring boot.",
+        "tools": "spring boot, spring cloud, spring security, spring jdbc template, jUnit, mockito, pivotal web services",
+        "link": "https://capstone-service-fearless-hyena.cfapps.io",
+        "code": "https://github.com/snihank/spring-security-pws"
     },
     {
         "id": 3,
@@ -25,19 +25,19 @@
     },
     {
         "id": 4,
-        "title": "Liri Node App",
-        "description": "A command line application, taking terminal commands as parameters and return information about songs, artists, movies and concerts",
-        "tools": "Javascript, Node, Axios, node-spotify-api, fs, Moment, dotenv",
-        "link": "This is a command line app",
-        "code": "https://github.com/snihank/liri-node-app"
+        "title": "Google Books Search",
+        "description": "A full stack MERN app, serving users with the list of books against their queries, users can save books, view them and delete them.",
+        "tools": "Javascript, React, Node, Express, Axios, MongoDB, Mongoose ORM, Heroku",
+        "link": "https://google-books-mern-app.herokuapp.com/",
+        "code": "https://github.com/snihank/google-books"
     },
     {
         "id": 5,
-        "title": "Eat-da-Burger",
-        "description": "A full stack restaaurant app where users can mention the burger they want to eat and add more burgers",
-        "tools": "Javascript, Handlebars, Node, Express, MySQL Heroku",
-        "link": "https://calm-falls-97011.herokuapp.com/",
-        "code": "https://github.com/snihank/burger-app"
+        "title": "New York Times Articles Scraping",
+        "description": "A user-friendly app that srapes articles from New York Times website and stores them, mainly into links, which can be viewed later",
+        "tools": "Javascript, Handlebars, MySQL, Node, Express, Axios, Sequelize ORM, Heroku",
+        "link": "",
+        "code": "https://github.com/snihank/Scrape-Mongo"
     },
     {
         "id": 6,

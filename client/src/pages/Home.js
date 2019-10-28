@@ -72,7 +72,7 @@ class Home extends Component {
                                     I am passionate about building, testing, deploying sophisticated user-friendly web and mobile applications.
                                     My expertise is, but not limited to, Full Stack Javascript development with React, Mongo, Express and Node.
                                     I am highly adaptive to ever-changing technologies. In addition, I have recently equipped myself
-                                    with backend Java, using Spring Boot, JdbcTemplate, JPA, Hibernate, Spring Cloud etc. With lifelong dedication to learning,
+                                    with backend Java and MicroServices, using Spring Boot, JdbcTemplate, JPA, Hibernate, Spring Cloud, Spring Security etc. With lifelong dedication to learning,
                                      I prioritize quality work under strict deadlines, and successfully collaborate with management and peers.
     </p>
                                 

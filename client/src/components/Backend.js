@@ -45,7 +45,7 @@ class Backend extends Component {
                                 </tr>
 
                                 <tr>
-                                    <th>Spring Boot | JDBCTemplate | JPA | Spring Cloud</th>
+                                    <th>Spring MVC | Spring Boot | JDBCTemplate | JPA | Spring Cloud | Microservices | Spring Security | OAuth 2</th>
                                 </tr>
 
                             </tbody>

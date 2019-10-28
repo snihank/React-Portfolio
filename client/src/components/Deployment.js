@@ -47,6 +47,10 @@ class Deployment extends Component {
                                 </tr>
 
                                 <tr>
+                                    <th>Pivotal Web Services</th>
+                                </tr>
+
+                                <tr>
                                     <th>Netlify</th>
                                 </tr>
 

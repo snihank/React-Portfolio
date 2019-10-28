@@ -36,8 +36,15 @@ class EducExp extends Component {
                     <h1><Badge variant="dark">Education | Training</Badge></h1>
 
 
-                    <h6>Columbia Engineering Coding Certificate (2019)</h6>
-                    Columbia University, New York, NY, USA
+                    <h6>Columbia Engineering Java Certification (October, 2019)</h6>
+                    Columbia Engineering, Three Months Full Time Coding Bootcamp, New York, NY, USA
+
+<br></br>
+                    <br></br>
+
+
+                    <h6>Columbia Engineering Full Stack Javascript MERN Certification (April, 2019)</h6>
+                    Columbia Engineering, Six Months Part Time Coding Bootcamp, New York, NY, USA
 
 <br></br>
                     <br></br>

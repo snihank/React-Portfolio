@@ -40,12 +40,24 @@ class ProjMgt extends Component {
                         <Table striped bordered hover variant="dark" responsive>
                             <tbody>
 
-                                <tr>
-                                    <th>SDLC</th>
-                                </tr>
 
                                 <tr>
                                     <th>Pivotal Tracker</th>
+                                </tr>
+
+                                <tr>
+                                    <th>Jenkins</th>
+                                </tr>
+                                <tr>
+                                    <th>Swagger API</th>
+                                </tr>
+
+                                <tr>
+                                    <th>Github Kanban</th>
+                                </tr>
+
+                                <tr>
+                                    <th>SDLC</th>
                                 </tr>
 
                                 <tr>
@@ -60,13 +72,9 @@ class ProjMgt extends Component {
                                     <th>JIRA</th>
                                 </tr>
 
-                                <tr>
-                                    <th>Trello</th>
-                                </tr>
 
-                                <tr>
-                                    <th>Coggle</th>
-                                </tr>
+
+
 
                             </tbody>
                         </Table>
